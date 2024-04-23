@@ -11,55 +11,26 @@
 
 > Status do Projeto:  :warning: ( em desenvolvimento )
 
-
 ### Tópicos 
 
-:small_blue_diamond: [Teste](#teste)
-
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
-
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
-
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Objetivo do repositório](#objetivo-do-repositório)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
 :small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
-## Teste 
+
+## Objetivo do repositório
 
 <p align="justify">
-  Teste.
+  Esse repositório tem como objetivo, a demonstração prática, através de exercícios propostos pela faculdade, de demonstrar aplicações práticas de estruturas de dados, tais como, fila, pilha, ordenação, recursividade, etc.
 </p>
-
-
-## Descrição do projeto 
-
-<p align="justify">
-  VirtuHome é um aplicativo móvel projetado para simplificar e agilizar o controle financeiro por meio interfaces fáceis e ágeis. Este repositório contém o código-fonte completo da aplicação, bem como a documentação necessária para desenvolvedores e usuários. 
-</p>
-
-## Funcionalidades
-
-:heavy_check_mark: Funcionalidade 1  
-
-:heavy_check_mark: Funcionalidade 2  
-
-:heavy_check_mark: Funcionalidade 3  
-
-:heavy_check_mark: Funcionalidade 4  
-
-## Layout ou Deploy da Aplicação :dash:
-
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
-
-... 
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Pré-requisitos
 
-:warning: [Node](https://nodejs.org/en/download/)
+:warning: [Python](https://www.python.org/downloads/) 
+<br>
+:warning: [VSCODE](https://code.visualstudio.com/download)
 
 ...
 
