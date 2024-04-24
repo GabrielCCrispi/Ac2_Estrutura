@@ -1,7 +1,7 @@
 <h1 align="center">Avaliação prática de estrutura de dados</h1> 
 
 <p align="center">
-	<img src="https://i0.wp.com/brasap.com.br/wp-content/uploads/2021/09/datastructures.png?resize=1800%2C600&ssl=1" width="700">
+	<img src="https://i0.wp.com/brasap.com.br/wp-content/uploads/2021/09/datastructures.png?resize=1800%2C600&ssl=1" width="5000">
 </p>
 
 <p align="center">
