@@ -41,7 +41,7 @@ Liste todas as dependencias e libs que o usuário deve ter instalado na máquina
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
+git clone https://github.com/GabrielCCrispi/Ac2_Estrutura.git
 ```
 
 ... 
@@ -80,12 +80,9 @@ Está sendo utilizado o Firebase neste projeto, sendo necessário adicionar sua 
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [React PDF](https://react-pdf.org/)
+- [Python](https://www.python.org/)
 
-...
 
-Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
 
 ## Resolvendo Problemas :exclamation:
 
@@ -102,8 +99,7 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 :memo: Tarefa 3 
 
 ## Desenvolvedores/Contribuintes :octocat:
-
-| [<img src="https://avatars.githubusercontent.com/u/77464914?s=400&u=4c5944b937605ae966d63a27a054c901aec11786&v=4" width=115><br><sub>João Vitor</sub>](https://github.com/JoaoMichelS) |  [<img src="https://avatars.githubusercontent.com/u/124169502?v=4" width=115><br><sub>Andressa Braga</sub>](https://github.com/andressabragavr) |   [<img src="" width=115><br><sub></sub>]() |
+[<img src="https://avatars.githubusercontent.com/u/122823447?v=4" width=115><br><sub>Gabriel Crispi</sub>](https://github.com/GabrielCCrispi) |  [<img src="https://avatars.githubusercontent.com/u/133813732?v=4" width=115><br><sub>Diogo Vieira</sub>](https://github.com/diogovitalv) | |
 | :---: | :---: | :---:
 
 
