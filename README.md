@@ -50,53 +50,20 @@ Coloque um passo a passo para rodar a sua aplicação. **Dica: clone o próprio 
 
 ## Como rodar os testes
 
-Coloque um passo a passo para executar os testes
+O arquivo está em formato ipynb, então, ao clonar o repositório, assim que abrir o arquivo dos exercícios, haverá um botão do lado esquerdo com uma seta, basta clicar para rodar o código do exercício. 
 
-```
-$ npm test, rspec, etc 
-```
+...
 
 ## Casos de Uso
 
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
+Esse projeto tem como intuito, a realização e desenvolvimento prático em estruturas de dados, utilizando python como ferramenta, o objetivo do repositório é educacional.
 
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-
-## JSON :floppy_disk:
-
-### Usuários: 
-
-|name|email|password|token|avatar|
-| -------- |-------- |-------- |-------- |-------- |
-|Lais Lima|laislima98@hotmail.com|lais123|true|https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU|
-
-... 
-
-Se quiser, coloque uma amostra do banco de dados 
-
-## Iniciando/Configurando banco de dados
-
-Está sendo utilizado o Firebase neste projeto, sendo necessário adicionar sua key do banco de dados, atualmente está sendo apontada para: 
+...
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
 - [Python](https://www.python.org/)
 
-
-
-## Resolvendo Problemas :exclamation:
-
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
-
-## Tarefas em aberto
-
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
-
-:memo: Tarefa 1 
-
-:memo: Tarefa 2 
-
-:memo: Tarefa 3 
 
 ## Desenvolvedores/Contribuintes :octocat:
 [<img src="https://avatars.githubusercontent.com/u/122823447?v=4" width=115><br><sub>Gabriel Crispi</sub>](https://github.com/GabrielCCrispi) |  [<img src="https://avatars.githubusercontent.com/u/133813732?v=4" width=115><br><sub>Diogo Vieira</sub>](https://github.com/diogovitalv) | |
@@ -107,4 +74,4 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2023 - VirtuHome
+Copyright :copyright: 2024 - Ac2_Estrutura
